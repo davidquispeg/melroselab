@@ -102,3 +102,6 @@ ul.mllist li::before {
 .footer p {
     font-size: .875rem;
 }
+.custom-font-form {
+    font-size: .81rem!important;
+}

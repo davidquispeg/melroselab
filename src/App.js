@@ -35,7 +35,7 @@ function App() {
           <h2 className="h4">Account</h2>
           <div className="px-3 py-3 bg-light">
             <form autoComplete="off" noValidate>
-              <div className="row">
+              <div className="custom-font-form row">
                 <div className="col-md-3 col-6">
                   <div className="mb-3">
                     <label className="form-label">Host</label>
